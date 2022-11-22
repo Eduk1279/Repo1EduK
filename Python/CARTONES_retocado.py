@@ -99,8 +99,8 @@ while conts < sorteos:
 	print(cartones[winners.index(15)])
 	
 	print("GANOOOOOOOOOO ")
-	print("GANOOOOOOOOOO ")	
-	print("GANOOOOOOOOOO ")	
+#	print("GANOOOOOOOOOO ")	
+#	print("GANOOOOOOOOOO ")	
 	print("GANOOOOOOOOOO ")
 	
 	
